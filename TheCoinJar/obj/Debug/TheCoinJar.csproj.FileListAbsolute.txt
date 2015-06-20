@@ -1,0 +1,6 @@
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\bin\Debug\TheCoinJar.exe.config
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\bin\Debug\TheCoinJar.exe
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\bin\Debug\TheCoinJar.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\obj\Debug\TheCoinJar.exe
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\obj\Debug\TheCoinJar.pdb
+C:\users\Vaibhav\Documents\Visual Studio 2012\Projects\POSA\TheCoinJar\obj\Debug\TheCoinJar.csprojResolveAssemblyReference.cache
